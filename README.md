@@ -1,4 +1,4 @@
-## Olá, eu sou Pedro 😎
+## Olá, Eu sou Pedro 😎
 
 ### 📝  Sobre mim 
 Sou estudante de **Engenharia de software**, entusiasta por tecnologia e em constante evolução técnica
