@@ -21,19 +21,21 @@ Sou estudante de **Engenharia de software**, entusiasta por tecnologia e em cons
 ### 📊 Estatísticas
 
 <p>
-  <img 
+  <img  <a href="https://beacons.ai/PedroPg99"
     align="left" 
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=PedroPg99&show_icons=true&theme=transparent&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=PedroPg99&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&locale=pt-br" 
   />
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="350" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroPg99&theme=transparent&layout=compact&custom_title=Tecnologias&langs_count=9" 
+
+  <img  
+    align="center" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroPg99&theme=transparent&layout=compact&locale=pt-br"
   />
 
 </p>
