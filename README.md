@@ -18,9 +18,9 @@ Sou estudante de **Engenharia de software**, entusiasta por tecnologia e em cons
 </div> <br>
 
 
-### 📊 Estatísticas
+<!--### 📊 Estatísticas -->
 
-<p>
+<!-- <p>
   <img  <a href="https://beacons.ai/PedroPg99"
     align="left" 
     alt="GitHub Stats" 
@@ -38,4 +38,4 @@ Sou estudante de **Engenharia de software**, entusiasta por tecnologia e em cons
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroPg99&theme=transparent&layout=compact&locale=pt-br"
   />
 
-</p>
+</p> -->
